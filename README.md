@@ -6,7 +6,7 @@ Este repositório contém cenários de teste automatizados utilizando o Cypress 
 
 - [Cypress](https://cypress.io/): Uma ferramenta de automação de testes para navegadores e APIs.
 - [Automation Practice](https://automationpratice.com.br/): Site usado para realizar os testes.
-- [FakerJS]: Biblioteca JavaScript que permite gerar dados falsos, simulando dados realistas.
+- [FakerJS](https://fakerjs.dev/): Biblioteca JavaScript que permite gerar dados falsos, simulando dados realistas.
 
 ## Estrutura do Projeto
 
